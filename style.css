@@ -1,0 +1,120 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+  }
+  
+  .van-container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #FFF7ED;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+  }
+  
+  header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  header h1 {
+    margin: 0;
+    font-size: 24px;
+    color: #333;
+    margin-right: 460px;
+  }
+  
+  .back-link {
+    display: block;
+    margin-top: 10px;
+    color: #070707;
+    text-decoration: none;
+    font-size: 14px;
+    margin-right: 460px;
+  }
+  
+  .back-link:hover {
+    text-decoration: underline;
+  }
+  
+  .van-card {
+    text-align: center;
+  }
+  
+  .van-image {
+    width: 95%;
+    height: auto;
+    border-radius: 10px;
+  }
+  
+  .van-details {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .simple-button {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #ec8461;
+    border-radius: 7px;
+    color: #fff;
+    border: none;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-right: 600px;
+  }
+  
+  .van-title {
+    margin: 10px 0;
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin-right: 371px;
+  }
+  
+  .van-price {
+    font-size: 18px;
+    color: #888;
+    margin: 5px 0;
+    margin-right: 600px;
+  }
+  
+  .van-description {
+    font-size: 14px;
+    color: #555;
+    text-align: left;
+    line-height: 1.6;
+
+  }
+  
+  .rent-button {
+    display: inline-block;
+    padding: 10px 20px;
+    width: 560px;
+    background-color: #f7941d;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  .rent-button:hover {
+    background-color: #e88310;
+  }
+  
+  footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 12px;
+    color: #aaa;
+    background-color: #333;
+    padding: 10px;
+  }
+  
